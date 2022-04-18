@@ -1,6 +1,6 @@
 const docId = '6BdoNff-Uk';
 const tableIdOrName = 'grid-lCLwQWEWB1';
-const token = 'e8034f3b-66bc-42e2-9916-4a4f2327f91e';
+const token = 'eb984f0b-a118-4644-89a5-a2492de31c60';
 const url = `https://coda.io/apis/v1/docs/${docId}/tables/${tableIdOrName}/rows`;
 const titleId = 'c-WQVtCDqyj0';
 const imageId = 'c-v5-Shpuhrs';
